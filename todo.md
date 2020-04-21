@@ -6,7 +6,7 @@
 
 ~~Step 04 - XML Views~~
 
-Step 05 - Controllers
+~~Step 05 - Controllers~~
 
 Step 06 - Modules
 
