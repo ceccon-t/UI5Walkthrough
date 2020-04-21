@@ -8,7 +8,7 @@
 
 ~~Step 05 - Controllers~~
 
-Step 06 - Modules
+~~Step 06 - Modules~~
 
 Step 07 - JSON Model
 
