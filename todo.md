@@ -4,7 +4,7 @@
 
 ~~Step 03 - Controls~~
 
-Step 04 - XML Views
+~~Step 04 - XML Views~~
 
 Step 05 - Controllers
 
