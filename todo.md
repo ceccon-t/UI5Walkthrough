@@ -2,7 +2,7 @@
 
 ~~Step 02 - Bootstrap~~
 
-Step 03 - Controls
+~~Step 03 - Controls~~
 
 Step 04 - XML Views
 
