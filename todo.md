@@ -10,7 +10,7 @@
 
 ~~Step 06 - Modules~~
 
-Step 07 - JSON Model
+~~Step 07 - JSON Model~~
 
 Step 08 - Translatable Texts
 
