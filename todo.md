@@ -12,7 +12,7 @@
 
 ~~Step 07 - JSON Model~~
 
-Step 08 - Translatable Texts
+~~Step 08 - Translatable Texts~~
 
 Step 09 - Component Configuration
 
