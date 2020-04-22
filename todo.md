@@ -14,7 +14,7 @@
 
 ~~Step 08 - Translatable Texts~~
 
-Step 09 - Component Configuration
+~~Step 09 - Component Configuration~~
 
 Step 10 - Descriptor for Applications
 
