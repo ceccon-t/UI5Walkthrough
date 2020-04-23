@@ -16,7 +16,7 @@
 
 ~~Step 09 - Component Configuration~~
 
-Step 10 - Descriptor for Applications
+~~Step 10 - Descriptor for Applications~~
 
 Step 11 - Pages and Panels
 
