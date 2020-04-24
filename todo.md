@@ -24,7 +24,7 @@
 
 ~~Step 13 - Margins and Paddings~~
 
-Step 14 - Custom CSS and Theme Colors
+~~Step 14 - Custom CSS and Theme Colors~~
 
 Step 15 - Nested Views
 
