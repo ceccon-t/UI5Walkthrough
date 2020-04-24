@@ -32,7 +32,7 @@
 
 ~~Step 17 - Fragment Callbacks~~
 
-Step 18 - Icons
+~~Step 18 - Icons~~
 
 Step 19 - Reuse Dialogs
 
