@@ -30,7 +30,7 @@
 
 ~~Step 16 - Dialogs and Fragments~~
 
-Step 17 - Fragment Callbacks
+~~Step 17 - Fragment Callbacks~~
 
 Step 18 - Icons
 
