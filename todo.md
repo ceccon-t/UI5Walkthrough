@@ -18,9 +18,9 @@
 
 ~~Step 10 - Descriptor for Applications~~
 
-Step 11 - Pages and Panels
+~~Step 11 - Pages and Panels~~
 
-Step 12 - Shell Control as Container
+~~Step 12 - Shell Control as Container~~
 
 Step 13 - Margins and Paddings
 
