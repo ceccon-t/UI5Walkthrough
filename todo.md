@@ -28,7 +28,7 @@
 
 ~~Step 15 - Nested Views~~
 
-Step 16 - Dialogs and Fragments
+~~Step 16 - Dialogs and Fragments~~
 
 Step 17 - Fragment Callbacks
 
