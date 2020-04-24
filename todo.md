@@ -22,7 +22,7 @@
 
 ~~Step 12 - Shell Control as Container~~
 
-Step 13 - Margins and Paddings
+~~Step 13 - Margins and Paddings~~
 
 Step 14 - Custom CSS and Theme Colors
 
