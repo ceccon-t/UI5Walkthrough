@@ -34,7 +34,7 @@
 
 ~~Step 18 - Icons~~
 
-Step 19 - Reuse Dialogs
+~~Step 19 - Reuse Dialogs~~
 
 Step 20 - Aggregation Binding
 
