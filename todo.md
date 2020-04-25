@@ -40,7 +40,7 @@
 
 ~~Step 21 - Data Types~~
 
-Step 22 - Expression Binding
+~~Step 22 - Expression Binding~~
 
 Step 23 - Custom Formatters
 
