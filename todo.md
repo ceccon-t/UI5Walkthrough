@@ -50,7 +50,7 @@
 
 ~~Step 26 - Remote OData Service~~
 
-Step 27 - Mock Server Configuration
+~~Step 27 - Mock Server Configuration~~
 
 Step 28 - Unit Test with QUnit
 
