@@ -44,7 +44,7 @@
 
 ~~Step 23 - Custom Formatters~~
 
-Step 24 - Filtering
+~~Step 24 - Filtering~~
 
 Step 25 - Sorting and Grouping
 
