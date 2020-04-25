@@ -48,7 +48,7 @@
 
 ~~Step 25 - Sorting and Grouping~~
 
-Step 26 - Remote OData Service
+~~Step 26 - Remote OData Service~~
 
 Step 27 - Mock Server Configuration
 
