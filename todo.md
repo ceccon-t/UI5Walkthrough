@@ -52,7 +52,7 @@
 
 ~~Step 27 - Mock Server Configuration~~
 
-Step 28 - Unit Test with QUnit
+~~Step 28 - Unit Test with QUnit~~
 
 Step 29 - Integration Test with OPA
 
