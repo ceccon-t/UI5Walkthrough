@@ -36,7 +36,7 @@
 
 ~~Step 19 - Reuse Dialogs~~
 
-Step 20 - Aggregation Binding
+~~Step 20 - Aggregation Binding~~
 
 Step 21 - Data Types
 
