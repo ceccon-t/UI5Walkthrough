@@ -54,7 +54,7 @@
 
 ~~Step 28 - Unit Test with QUnit~~
 
-Step 29 - Integration Test with OPA
+~~Step 29 - Integration Test with OPA~~
 
 Step 30 - Debugging Tools
 
