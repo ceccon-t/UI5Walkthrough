@@ -46,7 +46,7 @@
 
 ~~Step 24 - Filtering~~
 
-Step 25 - Sorting and Grouping
+~~Step 25 - Sorting and Grouping~~
 
 Step 26 - Remote OData Service
 
