@@ -56,7 +56,7 @@
 
 ~~Step 29 - Integration Test with OPA~~
 
-Step 30 - Debugging Tools
+~~Step 30 - Debugging Tools~~
 
 Step 31 - Routing and Navigation
 
