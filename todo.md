@@ -42,7 +42,7 @@
 
 ~~Step 22 - Expression Binding~~
 
-Step 23 - Custom Formatters
+~~Step 23 - Custom Formatters~~
 
 Step 24 - Filtering
 
