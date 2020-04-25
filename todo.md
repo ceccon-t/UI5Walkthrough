@@ -38,7 +38,7 @@
 
 ~~Step 20 - Aggregation Binding~~
 
-Step 21 - Data Types
+~~Step 21 - Data Types~~
 
 Step 22 - Expression Binding
 
