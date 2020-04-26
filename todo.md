@@ -64,7 +64,7 @@
 
 ~~Step 33 - Routing Back and History~~ 
 
-Step 34 - Custom Controls
+~~Step 34 - Custom Controls~~
 
 Step 35 - Responsiveness
 
