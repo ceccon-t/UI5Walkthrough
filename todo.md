@@ -58,7 +58,7 @@
 
 ~~Step 30 - Debugging Tools~~
 
-Step 31 - Routing and Navigation
+~~Step 31 - Routing and Navigation~~
 
 Step 32 - Routing with Parameters
 
