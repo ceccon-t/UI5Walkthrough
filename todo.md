@@ -62,7 +62,7 @@
 
 ~~Step 32 - Routing with Parameters~~
 
-Step 33 - Routing Back and History
+~~Step 33 - Routing Back and History~~ 
 
 Step 34 - Custom Controls
 

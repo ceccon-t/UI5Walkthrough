@@ -5,6 +5,8 @@
 >
     <Page 
         title="{i18n>detailPageTitle}"
+        showNavButton="true"
+        navButtonPress=".onNavBack"
     >
         <ObjectHeader 
             intro="{invoice>ShipperName}"
